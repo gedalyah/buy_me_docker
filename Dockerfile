@@ -33,5 +33,5 @@ RUN pip install selenium
 RUN pip install lxml
 
 WORKDIR /usr/workspace
-CMD ['python3', './TestBuyMe.py']
+#CMD ['python3', './TestBuyMe.py']
 
